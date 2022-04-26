@@ -1,4 +1,4 @@
-module github.com/nxdht/CycleTLS/cycletls
+module github.com/nxdht/cycletls
 
 go 1.14
 
